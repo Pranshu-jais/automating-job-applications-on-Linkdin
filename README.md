@@ -1,1 +1,1 @@
-# automating-job-applications-on-Linkdin
+use Selenium to automate applying for jobs.
